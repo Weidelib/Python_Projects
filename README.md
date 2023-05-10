@@ -1,5 +1,4 @@
-# Python_Projects
-Brian Weideli
+# Brian Weideli Python_Projects
 
 ## Project #1
 https://github.com/Weidelib/Video-game-popularity-analysis
